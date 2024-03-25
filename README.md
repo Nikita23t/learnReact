@@ -4,3 +4,5 @@
 1.useState
 2.useEffect
 3.useReducer в процессе изучения
+
+Все примеры кода, находятся в: src/components
