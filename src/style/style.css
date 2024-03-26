@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    justify-content: center;
+    text-align: left;
+
+}
+
+.blockHooks {
+    height: auto;
+    width: 50vw;
+    margin: 3%;
+    margin-left: 7%;
+}
+
+.blockHooks:hover {
+    transition: 0.5s;
+    box-shadow: 0 0 5px 5px #cfcfcf;
+}
